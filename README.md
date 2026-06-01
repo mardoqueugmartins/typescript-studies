@@ -3,6 +3,7 @@
 Repository created to study TypeScript.
 
 ## Topics studied
+```
 |- Dynamic vs Static Typing/
 |  |- Static vs Dynamic
 |- Creating and Configuring a Project/
@@ -18,3 +19,4 @@ Repository created to study TypeScript.
 |- Basic Types/
 |  |- exercise
 |  |- types
+```
