@@ -71,3 +71,4 @@ interface OrderInterface {
     products: ProductInterface[];
 }
 
+export {}

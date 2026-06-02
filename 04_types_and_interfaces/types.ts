@@ -30,3 +30,5 @@ const user2: UserType = {
     email: 'email@mail.com'
 };
 
+export {}
+

@@ -59,3 +59,5 @@ const author3: AuthorInterface | UserInterface = {
     name: 'Mardoqueu',
     email: 'mail@mail.com'
 }
+
+export {}
